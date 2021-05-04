@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Meditation in Nature
 
-[Project 1 Title](/sample_page)
+[Meditation in Nature](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
