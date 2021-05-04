@@ -1,0 +1,41 @@
+body {
+	background: url('../images/green-field.jpg');
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: coverocr; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;	
+}
+
+#container {
+	background: #807b96;
+	width: 450px;
+	color: black;
+	padding: 30px;
+	font-family: 'Architects Daughter', cursive;
+	border-radius: 10px;
+	}
+
+h1 {
+	font-size: 30px;
+	color: #C3D40C;
+	font-family: 'Rock Salt', cursive;
+	text-align: center;
+}
+
+h2 {
+	background: #F28D51;
+	color: #C3D40C;
+	padding: 5px;
+	border-radius: 5px;
+	font-family: 'Architects Daughter', cursive;
+	text-align: center;
+}
+
+a {
+	color: #F28D51;
+	font-style: bold;
+	text-decoration: none;
+}
